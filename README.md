@@ -1,6 +1,6 @@
 # Obituaries Search
 
-This is a PHP web application I created in 2015-2016 to provide a way for people to access the obituary indexes created by library volunteers in Excel spreadsheets. You can view it in action here: https://[jefflibrary.org/obituaries]
+This is a PHP web application I created in 2015-2016 to provide a way for people to access the obituary indexes created by library volunteers in Excel spreadsheets. You can view it in action here: https://jefflibrary.org/obituaries
 
 The UI is built with [Foundation 6](https://foundation.zurb.com) and the code is all by me.
 
